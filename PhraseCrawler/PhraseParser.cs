@@ -38,7 +38,7 @@ namespace PhraseCrawler
 
             _pagesToVisit.Add(url);
             
-            while (_pagesToVisit.Count != 0 && depth >= 0)
+            while (_pagesToVisit.Count != 0 && depth > 0)
             {
                 var links = this.GetLinks(url);
                 foreach (var foundLink in links)
@@ -49,6 +49,7 @@ namespace PhraseCrawler
                     }
                 }
                 var link = _pagesToVisit.First();
+                _pagesToVisit.RemoveAt(0);
                 _visitedPages.Add(link);
                 depth--;
                 var web = new HtmlWeb();
