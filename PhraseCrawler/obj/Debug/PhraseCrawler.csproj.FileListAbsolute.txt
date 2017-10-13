@@ -1,0 +1,9 @@
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\PhraseCrawler.exe.config
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\PhraseCrawler.exe
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\PhraseCrawler.pdb
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\obj\Debug\PhraseCrawler.csprojResolveAssemblyReference.cache
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\obj\Debug\PhraseCrawler.exe
+C:\Users\Trent\Documents\[Dev] Projects\PhraseCrawler\PhraseCrawler\obj\Debug\PhraseCrawler.pdb
